@@ -1,0 +1,26 @@
+name: Translation sync
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  upload-to-paratranz:
+    name: Upload sources to ParaTranz
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install requirements
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
+      - name: Upload sources
+        env:
+          PARA_TOKEN: ${{ secrets.PARA_TOKEN }}
+          PARA_PROJECT_ID: ${{ secrets.PARA_PROJECT_ID }}
+        run: python .github/scripts/github2para.py
