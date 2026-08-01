@@ -8,6 +8,7 @@ sys.path.insert(0, str(ROOT / 'src'))
 sys.path.insert(0, str(ROOT / '.github' / 'scripts'))
 
 from paratranz_api import ParaTranzClient
+from sync_config import load_sync_projects
 
 from src.ie_manuals import PROJECT_ROOT
 
@@ -69,10 +70,17 @@ def upload_file(client, project_id, remote_path, local_file, existing_files):
     print(f"已创建远端文件：{remote_path}{file_name}")
 
 
+def _get_sync_projects():
+    projects = load_sync_projects()
+    if projects:
+        return projects
+
+    return []
+
+
 def main():
     token = os.environ.get("PARA_TOKEN") or os.environ.get("PARATRANZ_TOKEN")
     project_id = os.environ.get("PARA_PROJECT_ID")
-    remote_path = "immersiveengineering/1.21/manual/en_us/"
 
     if not token or not project_id:
         print("环境变量未配置：需要 PARA_TOKEN 和 PARA_PROJECT_ID")
@@ -80,19 +88,26 @@ def main():
 
     client = _get_client(token)
     existing = _get_existing_files(client, project_id)
+    projects = _get_sync_projects()
 
-    source_root = PROJECT_ROOT / "en_us"
-    if not source_root.exists():
-        print(f"源目录不存在：{source_root}")
-        sys.exit(1)
+    for project in projects:
+        source_root = Path(project["upload_source"])
+        if not source_root.exists():
+            print(f"源目录不存在：{source_root}，跳过 {project.get('name')}")
+            continue
 
-    files = list(source_root.rglob("*.json"))
-    if not files:
-        print("未找到任何源 JSON 文件，退出")
-        return
+        if source_root.is_file():
+            files = [source_root]
+        else:
+            files = list(source_root.rglob("*.json"))
 
-    for f in files:
-        upload_file(client, project_id, remote_path, f, existing)
+        if not files:
+            print(f"未找到任何源 JSON 文件，跳过 {project.get('name')}")
+            continue
+
+        print(f"上传项目：{project.get('name')} -> {project.get('remote_prefix')}")
+        for f in files:
+            upload_file(client, project_id, project["remote_prefix"], f, existing)
 
 
 if __name__ == "__main__":

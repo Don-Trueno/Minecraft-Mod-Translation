@@ -1,0 +1,6 @@
+projects:
+  - name: immersiveengineering-1.21-manual
+    enabled: true
+    upload_source: projects/immersiveengineering/1.21/manual/en_us/
+    remote_prefix: immersiveengineering/1.21/manual/en_us/
+    download_target: projects/immersiveengineering/1.21/manual/zh_cn/

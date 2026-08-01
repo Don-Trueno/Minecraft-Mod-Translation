@@ -10,6 +10,7 @@ sys.path.insert(0, str(ROOT / 'src'))
 sys.path.insert(0, str(ROOT / '.github' / 'scripts'))
 
 from paratranz_api import ParaTranzClient
+from sync_config import load_sync_projects
 
 from src.ie_manuals import PROJECT_ROOT
 
@@ -64,12 +65,21 @@ def _write_translation_file(output_path: Path, content):
         handle.write(json.dumps(content, ensure_ascii=False, indent=4))
 
 
+def _get_sync_projects():
+    projects = load_sync_projects()
+    if projects:
+        return projects
+
+    return [{
+        "name": "immersiveengineering-1.21-manual",
+        "remote_prefix": "immersiveengineering/1.21/manual/en_us/",
+        "download_target": PROJECT_ROOT / "zh_cn",
+    }]
+
+
 def main():
     token = os.environ.get("PARA_TOKEN") or os.environ.get("PARATRANZ_TOKEN")
     project_id = os.environ.get("PARA_PROJECT_ID")
-    locale = "zh_cn"
-    remote_prefix = "immersiveengineering/1.21/manual/en_us/"
-    target_root = PROJECT_ROOT / locale
 
     if not token or not project_id:
         print("环境变量未配置：需要 PARA_TOKEN 和 PARA_PROJECT_ID")
@@ -81,49 +91,54 @@ def main():
         print("未找到任何远程文件。")
         return
 
+    projects = _get_sync_projects()
     saved_files = 0
-    for file_info in files:
-        remote_path = (file_info.get("path") or file_info.get("name") or "").replace("\\", "/")
-        remote_prefix = remote_prefix.replace("\\", "/")
+    for project in projects:
+        target_root = Path(project["download_target"])
+        remote_prefix = project["remote_prefix"].replace("\\", "/")
         if not remote_prefix.endswith("/"):
             remote_prefix += "/"
-        if not remote_path or not remote_path.startswith(remote_prefix):
-            continue
 
-        file_id_value = file_info.get("id")
-        if file_id_value is None:
-            print(f"跳过远程文件 {remote_path}：缺少 id")
-            continue
+        print(f"处理项目：{project.get('name')} -> {remote_prefix}")
+        for file_info in files:
+            remote_path = (file_info.get("path") or file_info.get("name") or "").replace("\\", "/")
+            if not remote_path or not remote_path.startswith(remote_prefix):
+                continue
 
-        try:
-            file_id = int(str(file_id_value))
-        except ValueError:
-            print(f"跳过远程文件 {remote_path}：id 无效 {file_id_value!r}")
-            continue
+            file_id_value = file_info.get("id")
+            if file_id_value is None:
+                print(f"跳过远程文件 {remote_path}：缺少 id")
+                continue
 
-        relative_part = remote_path[len(remote_prefix):].strip("/")
-        if not relative_part:
-            continue
-        relative_path = Path(relative_part)
-        if (
-            len(relative_path.parts) >= 2
-            and relative_path.parts[-1] == relative_path.parts[-2]
-            and relative_path.suffix == Path(relative_path.parts[-2]).suffix
-        ):
-            relative_path = Path(relative_path.parts[-1])
-        output_path = target_root / relative_path
+            try:
+                file_id = int(str(file_id_value))
+            except ValueError:
+                print(f"跳过远程文件 {remote_path}：id 无效 {file_id_value!r}")
+                continue
 
-        segments = _get_translation_segments(client, project_id, file_id)
-        translation_map = _extract_translation_map(segments)
-        if translation_map is None:
-            print(f"无法解析文件 {remote_path} 的翻译内容，保存原始返回数据。")
-            _write_translation_file(output_path, segments)
-        else:
-            _write_translation_file(output_path, translation_map)
-            print(f"已写入翻译文件：{output_path}")
-        saved_files += 1
+            relative_part = remote_path[len(remote_prefix):].strip("/")
+            if not relative_part:
+                continue
+            relative_path = Path(relative_part)
+            if (
+                len(relative_path.parts) >= 2
+                and relative_path.parts[-1] == relative_path.parts[-2]
+                and relative_path.suffix == Path(relative_path.parts[-2]).suffix
+            ):
+                relative_path = Path(relative_path.parts[-1])
+            output_path = target_root / relative_path
 
-    print(f"完成拉取：{saved_files} 个文件写入 {target_root}")
+            segments = _get_translation_segments(client, project_id, file_id)
+            translation_map = _extract_translation_map(segments)
+            if translation_map is None:
+                print(f"无法解析文件 {remote_path} 的翻译内容，保存原始返回数据。")
+                _write_translation_file(output_path, segments)
+            else:
+                _write_translation_file(output_path, translation_map)
+                print(f"已写入翻译文件：{output_path}")
+            saved_files += 1
+
+    print(f"完成拉取：{saved_files} 个文件写入配置项目")
 
 
 if __name__ == "__main__":
