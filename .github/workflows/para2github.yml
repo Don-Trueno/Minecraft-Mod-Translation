@@ -1,4 +1,4 @@
-name: Translation sync
+name: Paratranz To Github
 
 on:
   push:

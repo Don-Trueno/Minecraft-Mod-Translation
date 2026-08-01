@@ -1,4 +1,4 @@
-name: Translation sync
+name: Github To Paratranz
 
 on:
   workflow_dispatch:
