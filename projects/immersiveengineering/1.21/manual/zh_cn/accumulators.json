@@ -1,0 +1,9 @@
+{
+    "manual.accumulators.line0": "蓄电池",
+    "manual.accumulators.line1": "蓄势待发",
+    "manual.accumulators.line2": "{0}§l蓄电池§r是能量存储的最小单元。它的六个侧面均可设置为输入和输出，但每一侧面同时最多只能与一个接线器相连，并且只能连接与蓄电池相同等级的接线器。",
+    "manual.accumulators.line3": "",
+    "manual.accumulators.line4": "使用工程师锤可以调整方块侧面的输入或输出：蓝色对应输入，橙色对应输出，没有颜色代表这一侧面阻止连接。",
+    "manual.accumulators.line5": "",
+    "manual.accumulators.line6": "进行调整操作时潜行可以改为调整相对面的设置。"
+}

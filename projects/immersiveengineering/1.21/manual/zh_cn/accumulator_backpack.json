@@ -1,0 +1,17 @@
+{
+    "manual.accumulator_backpack.line0": "蓄电池背包",
+    "manual.accumulator_backpack.line1": "哆……莱……埃贡！",
+    "manual.accumulator_backpack.line2": "想盖一间能量存储设施，发现它占地超大，消耗的重型工程块也非常多。但要是把这大额能量均分给所有工具的话，不仅操作繁琐，后续使用也困难。{0}",
+    "manual.accumulator_backpack.line3": "为了解决这个难题，我们可以采取更折中的做法，也就是做一个蓄电池背包。它能集中存储能量，然后提供给所有可充能的工具。{0}",
+    "manual.accumulator_backpack.line4": "下一页将展示背包外框的合成方式。{0}",
+    "manual.accumulator_backpack.line5": "{0}准备好外框后，它还需要在{1}工程师装配台{2}上组装才可使用，这一步将在它内部安装一个{3}蓄电池{4}。{5}",
+    "manual.accumulator_backpack.line6": "蓄电池背包会为手持物品与正在穿戴的装备提供能量。它可以像其他胸甲那样直接穿戴；或者与任意一件胸甲合成，兼顾能量传输与基础保护能力。{0}",
+    "manual.accumulator_backpack.line7": "需注意，如果你将蓄电池背包连接到了一个盔甲，那么这个盔甲就不能再通过{0}充电站{1}为内置蓄电池充能了。{2}",
+    "manual.accumulator_backpack.line8": "下一页将详细介绍可以安装在蓄电池背包上的升级。{0}",
+    "manual.accumulator_backpack.line9": "{0}§2充电天线§r可让你的蓄电池背包自己充电！只需走到{1}裸露的线缆{2}下，背包就会自动伸出天线与它相连。{3}",
+    "manual.accumulator_backpack.line10": "只要你与线缆足够接近，天线能够伸展与电网保持连接，同时缓慢为蓄电池供能。{0}",
+    "manual.accumulator_backpack.line11": "{0}§2感应充电器§r使蓄电池背包可以为物品栏里全部物品充能，而不再局限于主手。但毕竟其他物品没有与背包直接相连，所以它们充能的速度相对要慢很多。{1}",
+    "manual.accumulator_backpack.line12": "{0}§2便携电磁铁§r是{1}大型设备{2}的特化版本，用于吸附穿戴者周围的物品，让它们更容易拾取。得益于电路改良，升级只在有物品被牵引时消耗能量。{3}",
+    "manual.accumulator_backpack.line13": "{0}最后是§2微型特斯拉线圈§r。正如其名，它与{1}大型设备{2}一样可以对附近目标施以电击。穿戴者被攻击时，它会类似于荆棘附魔那样触发电流反击。",
+    "manual.accumulator_backpack.line14": "{0}由于都需要安装在背包的顶面，微型特斯拉线圈与充电天线升级不能同时安装。"
+}
