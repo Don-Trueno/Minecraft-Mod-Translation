@@ -1,0 +1,7 @@
+{
+    "manual.item_hatch.line0": "Item Hatch",
+    "manual.item_hatch.line1": "Making a withdrawal",
+    "manual.item_hatch.line2": "{0}Item hatches are a simple way to retrieve an item from an inventory.{1}",
+    "manual.item_hatch.line3": "Right-clicking them with an empty hand will retrieve the first stack of items from the inventory it is attached to.{0}",
+    "manual.item_hatch.line4": "This makes for easy access to frequently used construction materials stored in chests or crates, and is exceedingly helpful for directly retrieving items from a {0}Silo{1}."
+}

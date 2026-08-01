@@ -1,0 +1,12 @@
+{
+    "manual.storage_crates.line0": "Storage Crates",
+    "manual.storage_crates.line1": "Move that gear up!",
+    "manual.storage_crates.line2": "{0}Wooden Storage Crates are similar to a chest in function, storing up to 27 stacks of material and providing a comparator signal based on their fill.{1}",
+    "manual.storage_crates.line3": "Unlike chests, they can be sealed up to keep all the material stored within a crate when picking it up.",
+    "manual.storage_crates.line4": "Using an {0}Engineer's Hammer{1} on a crate for an extended duration will seal it up, after which it can be broken to pick it up.{2}",
+    "manual.storage_crates.line5": "This does mean that unlike Shulker Boxes, storage crates cannot be broken by pistons.{0}",
+    "manual.storage_crates.line6": "When opening a crate's interface, its name at the top can be edited, and the edited name will appear when looking at the block afterward.{0}",
+    "manual.storage_crates.line7": "{0}Reinforced Storage Crates are framed with steel, allowing them to resist the otherwise devastating dangers posed by explosions.{1}",
+    "manual.storage_crates.line8": "Due to this, they will not break or drop their items when explosions happen near enough to otherwise destroy them.{0}",
+    "manual.storage_crates.line9": "Both types of crates, as well as shulker boxes, can be placed on a {0}storage shelf{1} for easier access to their items."
+}

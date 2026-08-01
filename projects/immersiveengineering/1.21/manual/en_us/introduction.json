@@ -1,0 +1,10 @@
+{
+    "manual.introduction.line0": "Introduction",
+    "manual.introduction.line1": "Getting into Engineering",
+    "manual.introduction.line2": "Greetings and welcome to Immersive Engineering.{0}",
+    "manual.introduction.line3": "The following notes and guides will showcase the most recent technology available in the modern combined worlds.{0}",
+    "manual.introduction.line4": "However, certain pieces of science may be so weird, that this manual can not yet explain them. In traveling the worlds, certain Eureka-moments may lead to new pages being added to the manual, though this will be a rare exception.{0}",
+    "manual.introduction.line5": "All engineering in the following chapters is built around the concept of pre-computing transfer of energy. The energy used by the machines is Forge Energy, a trait shared with many other generation methods currently available.{0}",
+    "manual.introduction.line6": "Many machines are {0}multiblock machines{1}, formed with the {2}Engineer's Hammer{3}.{4}",
+    "manual.introduction.line7": "All the information needed to use the technology is contained within, so venture boldly forth!"
+}

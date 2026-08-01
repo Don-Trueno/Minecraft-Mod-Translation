@@ -1,0 +1,8 @@
+{
+    "manual.machine_components.line0": "Machine Components",
+    "manual.machine_components.line1": "Where's my Allen Wrench?",
+    "manual.machine_components.line2": "Outside of paracausal events and the ability to modify the size of atoms, fitting complex heavy machinery into a meter cube seems impossible.{0}",
+    "manual.machine_components.line3": "In order to create more complex machines than simple furnaces and storage silos, component machinery must first be assembled.{0}",
+    "manual.machine_components.line4": "Engineering Blocks are used alongside simpler components such as {0}scaffolding{1} to construct heavy machinery.{2}",
+    "manual.machine_components.line5": "{0}"
+}

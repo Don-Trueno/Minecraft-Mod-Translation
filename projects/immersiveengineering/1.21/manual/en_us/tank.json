@@ -1,0 +1,11 @@
+{
+    "manual.tank.line0": "Tank",
+    "manual.tank.line1": "Full to the brim!",
+    "manual.tank.line2": "The Tank is a multiblock that provides space for large amounts of fluid.{0}",
+    "manual.tank.line3": "It will store up to 512 buckets of any fluid, which can be piped in via the top or bottom port.{0}",
+    "manual.tank.line4": "The structure can be constructed out of any sheetmetal, it is not limited to using iron.{0}",
+    "manual.tank.line5": "Fluids can only be extracted from the bottom center block.{0}",
+    "manual.tank.line6": "Applying a redstone signal to the bottom center block will make the tank output automatically, a comparator placed there will emit a redstone signal proportional to how full the tank is.{0}",
+    "manual.tank.line7": "Attaching the comparator to one of the top 4 layers results in a signal proportional to the height of the comparator.{0}",
+    "manual.tank.line8": "For example, a comparator attached to the second layer of a tank would not emit any signal until the tank is 1/4 full and have a signal strength of 15 if the tank is half full or more."
+}

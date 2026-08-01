@@ -1,0 +1,11 @@
+{
+    "manual.silo.line0": "Silo",
+    "manual.silo.line1": "Full to the brim!",
+    "manual.silo.line2": "Silos offer space for a lot of items of the same type, making them excellent for mass storage of seeds, slag or cobblestone. They have space for 41472 items, equaling the capacity of 24 chests.{0}",
+    "manual.silo.line3": "The structure can be constructed out of any sheetmetal, it is not limited to using iron.{0}",
+    "manual.silo.line4": "Items can be input through the top grate, or through the bottom port. Items must be extracted from the bottom port.{0}",
+    "manual.silo.line5": "Applying a redstone signal to the bottom block will make it output automatically.{0}",
+    "manual.silo.line6": "A comparator attached to the bottom center block will it emit a redstone signal proportional the fill of the silo.{0}",
+    "manual.silo.line7": "Attaching the comparator to one of the top 6 layers results in a signal proportional to the height of the comparator.{0}",
+    "manual.silo.line8": "For example, a comparator attached to the third layer of a silo would not emit any signal until the tank is 2/6 full and have a signal strength of 15 if the silo is half full or more."
+}

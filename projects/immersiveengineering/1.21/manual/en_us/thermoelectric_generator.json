@@ -1,0 +1,9 @@
+{
+    "manual.thermoelectric_generator.line0": "Thermoelectric Generator",
+    "manual.thermoelectric_generator.line1": "Hot and Cold",
+    "manual.thermoelectric_generator.line2": "{0}Thermoelectric Generators are another kind of power generation, and work without the use of any mechanical parts. These generators use the temperature gradient between two opposing sources to produce power.{1}",
+    "manual.thermoelectric_generator.line3": "Placing a heat source on one side and a colder source on the opposite side generates energy based on the difference between the two temperatures.{0}",
+    "manual.thermoelectric_generator.line4": "Any fluid will work based on its temperature, along with some other blocks.{0}",
+    "manual.thermoelectric_generator.line5": "Temperature gradients are only used across the generator, not across adjacent sides.{0}",
+    "manual.thermoelectric_generator.line6": "{0}The list below contains non-fluid blocks which can be used as sources of temperature."
+}

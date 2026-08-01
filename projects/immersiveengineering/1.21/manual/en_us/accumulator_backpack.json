@@ -1,0 +1,17 @@
+{
+    "manual.accumulator_backpack.line0": "Accumulator Backpack",
+    "manual.accumulator_backpack.line1": "Do....Ray....Egon!",
+    "manual.accumulator_backpack.line2": "Energy storage takes space and some heavyweight components. As such, storing large amounts of energy in each tool individually is inefficient and makes them awkward to wield.{0}",
+    "manual.accumulator_backpack.line3": "The Accumulator Backpack acts as a compromise, offering a centralized storage of energy for any powered tools to tap into.{0}",
+    "manual.accumulator_backpack.line4": "The carrying frame can be constructed with the recipe shown on the following page.{0}",
+    "manual.accumulator_backpack.line5": "{0}Once the frame has been constructed, it must be modified in an {1}Engineer's Workbench{2} in order to place an {3}Accumulator{4} inside it.{5}",
+    "manual.accumulator_backpack.line6": "The backpack charges any tools in your hands, as well as any armor you are wearing. You can wear it like a piece of chest armor, or you may craft it with a chestpiece to attach it and gain the benefit of a power-supply as well as protection.{0}",
+    "manual.accumulator_backpack.line7": "Note that you can not use the {0}Charging Station{1} to charge the pack while it is attached to armor.{2}",
+    "manual.accumulator_backpack.line8": "The following pages detail the possible upgrades you can attach to the Accumulator Backpack.{0}",
+    "manual.accumulator_backpack.line9": "{0}By attaching a §2Charging Antenna§r to the backpack, you can charge its accumulator on the go! Simply walk underneath an {1}un-insulated powerline{2} to have the antenna connect to it.{3}",
+    "manual.accumulator_backpack.line10": "While you remain close enough to the wire, the antenna will flex and stay connected, slowly charging the accumulator from the wire network.{0}",
+    "manual.accumulator_backpack.line11": "{0}The §2Induction Charger§r allows the accumulator pack to charge all the items in your inventory instead of just those in your hands. Due to not using a direct wired connection however, this charging is much slower.{1}",
+    "manual.accumulator_backpack.line12": "{0}The §2Portable Electromagnet§r is a specialized version of the {1}larger block{2}, designed to attract nearby items to the user, allowing them to be easily picked up. Thanks to improved circuitry, this upgrade only consumes energy while items are being moved.{3}",
+    "manual.accumulator_backpack.line13": "{0}As its name may suggest, the §2Miniaturized Tesla Coil§r is much like its {1}larger sister{2}, a device that delivers dangerous shocks to nearby targets. It does so in response to the wearer being attacked, thus substituting thorny armor for electricity.",
+    "manual.accumulator_backpack.line14": "{0}Due to attaching at the top of the backpack, the coil can not be used at the same time as the Charging Antenna."
+}

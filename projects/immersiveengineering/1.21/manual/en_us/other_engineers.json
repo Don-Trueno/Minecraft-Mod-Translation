@@ -1,0 +1,23 @@
+{
+    "manual.other_engineers.line0": "Other Engineers",
+    "manual.other_engineers.line1": "Testificate with a Degree",
+    "manual.other_engineers.line2": "Outside of the comfortable compound of any engineer are others less fortified.{0}",
+    "manual.other_engineers.line3": "Inside of the villages and towns of the world come a variety of inhabitants who farm and build. Among these come some engineers at the forefront of the field in their towns, pushing against the tide.{0}",
+    "manual.other_engineers.line4": "Common trades among those that ply designs and devices in the markets of the world are below.{0}",
+    "manual.other_engineers.line5": "{0} The §lStructural Engineer§r deals in common construction materials such as treated wood, scaffolding, and concrete.{1}",
+    "manual.other_engineers.line6": "Once they're experienced enough to prospect, they may even sell you a treasure map to a nearby {0}Mineral Vein{1}...{2}",
+    "manual.other_engineers.line7": "The workstation of the Structural Engineer is a §2Turntable§r.{0}",
+    "manual.other_engineers.line8": "{0}The §lMachinist§r is an expert in metals, mechanics and tools.{1}",
+    "manual.other_engineers.line9": "They trade in various components and engineering blocks needed for assembling multiblock machinery. Master machinists may even sell heads for powered tools.{0}",
+    "manual.other_engineers.line10": "The workstation of the Machinist is an §2Engineer's Crafting Table§r.{0}",
+    "manual.other_engineers.line11": "{0} The §lElectrician§r deals in wires and basic electronics components.{1}",
+    "manual.other_engineers.line12": "As they get more experienced, their fascination turns to higher voltages, offering pieces of a faraday suit and tesla coils!{0}",
+    "manual.other_engineers.line13": "The workstation of the Electrician is an §2Engineer's Circuit Table§r.{0}",
+    "manual.other_engineers.line14": "{0}The §lGunsmith§r deals with the recently popular firearms, including blueprints.{1}",
+    "manual.other_engineers.line15": "Apart from buying gunpowder and offering their skills in ammunition loading, they also manufacture unique component pieces for the {0}Revolver{1}.{2}",
+    "manual.other_engineers.line16": "The workstation of the Gunsmith is an §2Engineer's Workbench§r.{0}",
+    "manual.other_engineers.line17": "{0} The §lOutfitter§r may not seem like a traditional engineer, although their field of work is no less precise!{1}",
+    "manual.other_engineers.line18": "Whereas others manufacture components, they instead design unique colour patterns known as {0}Shaders{1}.{2}",
+    "manual.other_engineers.line19": "While purchasing elegant materials such as tough fabric, silver and gold, they sell shader grab bags, enabling you to randomly acquire pieces of their craft.{0}",
+    "manual.other_engineers.line20": "The workstation of the Outfitter is a §2Shader Banner§r, which is created by using a shader on a normal, placed banner."
+}

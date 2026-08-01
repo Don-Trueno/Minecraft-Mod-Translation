@@ -1,0 +1,8 @@
+{
+    "manual.pipe_valve.line0": "Pipe Valve",
+    "manual.pipe_valve.line1": "Cannot Count To Three",
+    "manual.pipe_valve.line2": "{0}Pipe valves are redsto- mechanical devices that control fluid flow to runs of {1}pipe{2}.{3}",
+    "manual.pipe_valve.line3": "Valves will not accept flow against their orientation, marked by the arrow on the central valve segment.{0}",
+    "manual.pipe_valve.line4": "When a redstone signal is applied, the valve mechanism in the pipe will shut off all flow across the pump.{0}",
+    "manual.pipe_valve.line5": "Pipe valves will connect to redstone acceptors such as {0}connectors{1} or levers, allowing them to be placed against the valve face."
+}

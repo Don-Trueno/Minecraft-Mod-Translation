@@ -1,0 +1,12 @@
+{
+    "manual.buzzsaw.line0": "Buzzsaw",
+    "manual.buzzsaw.line1": "We Don't Go To Ravenholm",
+    "manual.buzzsaw.line2": "{0}This large, portable buzzsaw is designed to make quick work of trees and other pieces of foliage that may stand in the way of a pristine factory.{1}",
+    "manual.buzzsaw.line3": "After using the {0}Engineer's Workbench{1} to place a sawblade in it, and loading it with {2}Biodiesel{3} or another fuel, it can be used to carve through everything from small birches to large jungle trees.{4}",
+    "manual.buzzsaw.line4": "Like many other tools, the buzzsaw can be modified in the {0}Engineer's Workbench{1}. These upgrades affect the size of the internal tank, the number of blades it can store, and the durability of its sawblade.{2}",
+    "manual.buzzsaw.line5": "{0}By replacing the normal saw- blade with a §2Rockcutter Blade§r, the buzzsaw can be used to cleanly cut cubes of stone from the ground, much like the §2Silktouch§r enchantment. However, the diamond tipped blade is no longer useful in carving through wood or felling trees.{1}",
+    "manual.buzzsaw.line6": "{0}The §2Grinding Disk§r is made from fine aluminium grit suspended in {1}Phenolic Resin{2}. While not as durable, these disks are excellent for quickly cutting through metal blocks, but break easily on other materials. Additionally, they can be used to scrape oxidization or wax off copper blocks or strip bark from logs, much like an §2axe§r can.{3}",
+    "manual.buzzsaw.line7": "{0}The §2Large Tank§r increases the fluid capacity of the buzzsaw by 2000 mb.{1}",
+    "manual.buzzsaw.line8": "{0}The §2Advanced Lubrication System§r applies additional lubricant to the sawblade, reducing the speed at which it loses durability.{1}",
+    "manual.buzzsaw.line9": "{0}By attaching the §2Blade Quiver§r to the side of the buzzsaw, you can carry two additional sawblades along. You can cycle between the stored blades by {1}sneaking and using the scrollwheel, or through use of{2}using{3} the keybind §l{4}§r if it has been set in the options."
+}

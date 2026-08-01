@@ -1,0 +1,9 @@
+{
+    "manual.warning_signs.line0": "Warning Signs",
+    "manual.warning_signs.line1": "Warning: Excessive signage ahead",
+    "manual.warning_signs.line2": "Factories and warehouses are often grimy, unsafe, and riddled with chemicals and steam clouding the air.{0}",
+    "manual.warning_signs.line3": "If reducing these hazards is inefficient, newly standardized Warning Signs can be used to warn of dangers instead.",
+    "manual.warning_signs.line4": "{0}Warning signs can be crafted from any metal backing plate and yellow dye, to make sure the signs are visible on gloomy factory floors.{1}",
+    "manual.warning_signs.line5": "Signs can be placed on any vertical block face, but cannot be placed on the floor or on the ceiling.{0}",
+    "manual.warning_signs.line6": "Using a §2glow ink sack§r on a placed sign will make it emit a low amount of light."
+}

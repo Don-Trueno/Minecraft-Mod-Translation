@@ -1,0 +1,9 @@
+{
+    "manual.balloon.line0": "Balloon",
+    "manual.balloon.line1": "...just make 99 of them",
+    "manual.balloon.line2": "{0}Balloons are sacks of fabric with a heatsource below to keep them afloat. They will emit light, but despite the torch, they are not a fire hazard.",
+    "manual.balloon.line3": "Balloons can be placed like normal blocks, or when no block is targeted, they will be placed in the air in front of you.{0}",
+    "manual.balloon.line4": "Similar to {0}Structural Connectors{1} you can attach Hemp Rope and Steel Wire to the balloon.{2}",
+    "manual.balloon.line5": "Sneak-clicking while placing allows you to set a height offset for the balloon, allowing you to place it up to 5 blocks above the target. Sneaking and right-clicking on a balloon will let you pick it up.{0}",
+    "manual.balloon.line6": "You can also use dyes on a placed balloon; which part you dye depends on where you target it. Rightclicking with an Engineer's Hammer will toggle the balloon's design between horizontal or vertical stripes."
+}

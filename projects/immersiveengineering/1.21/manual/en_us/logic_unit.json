@@ -1,0 +1,16 @@
+{
+    "manual.logic_unit.line0": "Logic Unit",
+    "manual.logic_unit.line1": "Turing Complete",
+    "manual.logic_unit.line2": "{0}With the versatility of {1}Redstone Wires{2} and shunting from {3}Vacuum Tubes{4}, complex redstone can be compacted into {5}Logic Circuits{6}.{7}",
+    "manual.logic_unit.line3": "The Logic Unit is the specialty machine in which logic circuits are slotted to be used.{0}",
+    "manual.logic_unit.line4": "It has enough space for a total of §210 circuits§r, and features a full §28 inbuilt registers§r, usable for any circuit.{0}",
+    "manual.logic_unit.line5": "For a logic unit to interface with the colored redstone systems, it needs to have a {0}Redstone Interface Connector{1} attached to its side.{2}",
+    "manual.logic_unit.line6": "Every time any of the attached connectors change their state, the logic unit cycles through its circuits and performs all 10 operations.{0}",
+    "manual.logic_unit.line7": "If a circuit uses a register as an output, the resulting value is kept in the register and may be used by later circuit as an input.{0}",
+    "manual.logic_unit.line8": "The same interface connector used to input can be used as an output as well.",
+    "manual.logic_unit.line9": "",
+    "manual.logic_unit.line10": "",
+    "manual.logic_unit.line11": "",
+    "manual.logic_unit.line12": "",
+    "manual.logic_unit.line13": ""
+}

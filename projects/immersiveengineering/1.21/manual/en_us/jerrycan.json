@@ -1,0 +1,7 @@
+{
+    "manual.jerrycan.line0": "Jerrycan",
+    "manual.jerrycan.line1": "Better than buckets",
+    "manual.jerrycan.line2": "{0}Jerrycans are simple metal containers used to carry fluids. They can store up to 10 buckets and can pour that fluid into the world as well as into machines.{1}",
+    "manual.jerrycan.line3": "Jerrycans cannot be used to pick up fluids from the world, but can be refilled from tanks such as {0}barrels{1} or {2}large tanks{3}.{4}",
+    "manual.jerrycan.line4": "Additionally, they can be used to refill fluid-consuming items like the {0}Mining Drill{1} by placing the jerrycan and the tool together in a crafting grid."
+}

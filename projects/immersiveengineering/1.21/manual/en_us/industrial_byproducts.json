@@ -1,0 +1,17 @@
+{
+    "manual.industrial_byproducts.line0": "Industrial Byproducts",
+    "manual.industrial_byproducts.line1": "Backstuff Nightmare",
+    "manual.industrial_byproducts.line2": "{0}§lSulfur Dust§r is a powder found commonly in {1}Mineral Deposits{2}.{3}",
+    "manual.industrial_byproducts.line3": "It can be found occasionally by {0}crushing{1} §2Lapis Lazuli Ore§r or §2Coal Ore§r, and more commonly in §2Nether Quartz Ore§r and §2Blaze Rods§r.{2}",
+    "manual.industrial_byproducts.line4": "It is most useful when combined into gunpowder or {0}Industrial Fertilizer{1}.{2}",
+    "manual.industrial_byproducts.line5": "{0}§lNitrate Dust§r (also known as saltpeter) is mixture of alkali salts found by processing §2Sandstone§r in a {1}Crusher{2}.{3}",
+    "manual.industrial_byproducts.line6": "In a similar vein to sulfur, nitrate dust can be used in {0}Industrial Fertilizer{1}. It can also be used to catalyze the production of {2}Biodiesel{3}.{4}",
+    "manual.industrial_byproducts.line7": "{0}§lSlag§r is a mixture of metallic oxides and sulfides common from {1}steel production{2}.{3}",
+    "manual.industrial_byproducts.line8": "Slag can be made into building blocks, including {0}concrete{1}, and can be used to create {2}Industrial Fertilizer{3}.{4}",
+    "manual.industrial_byproducts.line9": "{0}",
+    "manual.industrial_byproducts.line10": "Sulfur, slag, and nitrate by themselves are a small boost to growing crops in the {0}Garden Cloche{1}, but are not enough to be used on crops directly.{2}",
+    "manual.industrial_byproducts.line11": "§2Industrial Fertilizer§r will provide a major boost to the cloche, and is made from all three nutrients above plus water to mix them effectively.",
+    "manual.industrial_byproducts.line12": "{0}",
+    "manual.industrial_byproducts.line13": "Mixing Nitrate, Sulfur and Charcoal allows for the creation of gunpowder, a far more industrial and consistent process than looting it from monsters.{0}",
+    "manual.industrial_byproducts.line14": "Gunpowder can be used to make {0}ammunition{1} and {2}explosives{3} quickly and cheaply."
+}

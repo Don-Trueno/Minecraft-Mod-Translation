@@ -1,0 +1,11 @@
+{
+    "manual.posts_and_wallmounts.line0": "Posts & Wallmounts",
+    "manual.posts_and_wallmounts.line1": "Put Your HV Out of Reach",
+    "manual.posts_and_wallmounts.line2": "{0}Posts can be made from several common structural materials, including Treated Wood, Steel, and Aluminium.{1}",
+    "manual.posts_and_wallmounts.line3": "Unlike fence posts, these posts will not connect together, but instead can be used to hang wallmounts, {0}wires{1} or {2}lamps{3}.{4}",
+    "manual.posts_and_wallmounts.line4": "Posts are four blocks high and thus cannot be placed without the proper clearance.{0}",
+    "manual.posts_and_wallmounts.line5": "Using the Engineer's Hammer on the sides of the topmost block will attach an arm to the post.{0}",
+    "manual.posts_and_wallmounts.line6": "Placing blocks below the arms of the wooden post will flip the arms upside down.{0}",
+    "manual.posts_and_wallmounts.line7": "{0}Wallmounts are similar to the mounting arms of posts, and can be made of the same materials.{1}",
+    "manual.posts_and_wallmounts.line8": "Their attachment point can be oriented to support the top or bottom face of a block. Using an Engineer's Hammer will rotate the side of the mount."
+}

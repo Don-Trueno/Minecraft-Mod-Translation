@@ -1,0 +1,13 @@
+{
+    "manual.railgun.line0": "Railgun",
+    "manual.railgun.line1": "Velocitas Eradico",
+    "manual.railgun.line2": "The Railgun (or more accurately the Portable Induction Catapult) is a marvel of engineering. It consists of two rails through which an electric current flows and accelerates a sled, and by that, a projectile.",
+    "manual.railgun.line3": "The process is energy intensive but will accelerate various projectiles to high speeds.",
+    "manual.railgun.line4": "To launch a projectile from your inventory, click and hold the use button till the charge level reaches 99, then release.{0}",
+    "manual.railgun.line5": "Common projectiles include §2iron§r, §2aluminum§r and §2steel rods§r, as well as §2graphite electrodes§r. However, you may also fire more exotic projectiles, such as §2blaze rods§r that set targets alight, §2end§r and §2breeze rods§r which can hit endermen and breezes respectively, §2ender pearls§r to increase their range, {0}§2sawblades§r{1} that pierce targets, or §2tridents§r.{2}",
+    "manual.railgun.line6": "To switch between projectiles, sneak and scroll the mouse wheel or use the keybind §l{0}§r if it has been set in the options.{1}",
+    "manual.railgun.line7": "Due to the low internal energy storage, it is recommended to use the railgun along with a {0}Accumulator Backpack{1}.",
+    "manual.railgun.line8": "As with other IE tools, the railgun can be modified in the {0}Engineer's Workbench{1} and be customized with {2}Shaders{3}.{4}",
+    "manual.railgun.line9": "{0}The §2Advanced Heatsinks§r help mitigate the heat buildup during the chargup process, greatly reducing the railgun's charge time.{1}",
+    "manual.railgun.line10": "{0}The §2Precision Scope§r allows you to zoom in with the railgun. Use §l{1}§r to use the scope and scroll the mouse wheel to switch between magnification levels."
+}

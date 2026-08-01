@@ -1,0 +1,12 @@
+{
+    "manual.metal_constructions.line0": "Metal Constructions",
+    "manual.metal_constructions.line1": "Riveting",
+    "manual.metal_constructions.line2": "{0}Apart from Treated Wood, processed metals make for common construction blocks.{1}",
+    "manual.metal_constructions.line3": "All metals can be crafted into blocks and slabs, or plates into sheetmetal as shown in the next page.{0}",
+    "manual.metal_constructions.line4": "{0}Sheetmetal can be dyed to color it into sixteen shades.{1}",
+    "manual.metal_constructions.line5": "{0}Metal fencing is the counterpart to standard wooden and treated wooden fencing.{1}",
+    "manual.metal_constructions.line6": "Unable to burn, metal fencing can be used to effectively keep in hot creatures such as Blazes or burning undead.{0}",
+    "manual.metal_constructions.line7": "{0}Structural Connectors work similarly to normal connectors, but are purely decorative.{1}",
+    "manual.metal_constructions.line8": "These connectors can be rotated through several degrees of rotation by rightclicking them with an Engineer's Hammer.{0}",
+    "manual.metal_constructions.line9": "{0}Structural Connectors will not accept normal wires, instead accepting rope and wire at a maximum range of 32m.{1}"
+}

@@ -1,0 +1,8 @@
+{
+    "manual.chutes.line0": "Chutes",
+    "manual.chutes.line1": "Clonk. Clonk. Clo-BONK!",
+    "manual.chutes.line2": "{0}Chutes are simple constructions made from sheetmetal that allow creatures and items that fit inside to drop straight down.{1}",
+    "manual.chutes.line3": "Chutes also insert into inventories below them and can be inserted into by conveyors or similar devices.{0}",
+    "manual.chutes.line4": "Items within them won't be picked up by players and should be immune to most forms of attraction, magnetic or otherwise.{0}",
+    "manual.chutes.line5": "Sneak + rightclick with an Engineer's Hammer to turn the chute into a corner piece that directs anything inside of it to the side and connects to other chutes."
+}

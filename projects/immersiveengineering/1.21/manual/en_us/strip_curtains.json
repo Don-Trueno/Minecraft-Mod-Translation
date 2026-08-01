@@ -1,0 +1,8 @@
+{
+    "manual.strip_curtains.line0": "Strip Curtains",
+    "manual.strip_curtains.line1": "What Mysteries Lie Beyond?",
+    "manual.strip_curtains.line2": "{0}Strip Curtains are a bar with panels of {1}Tough Fabric{2} mounted to them and hung down.{3}",
+    "manual.strip_curtains.line3": "Curtains can be used to block sight through doorways or conveyor openings without obstructing items or creatures.{0}",
+    "manual.strip_curtains.line4": "When an item or creature passes through them, they will emit a redstone signal. Rightclick them with an Engineer's Screwdriver to enable strong signals.{0}",
+    "manual.strip_curtains.line5": "They can be dyed in the same way leather armor can."
+}

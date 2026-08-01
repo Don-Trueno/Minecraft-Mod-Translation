@@ -1,0 +1,11 @@
+{
+    "manual.crusher.line0": "Crusher",
+    "manual.crusher.line1": "Keep your hands out!",
+    "manual.crusher.line2": "Drum crushers are an industrial method of reducing ores and metals to dust, and your enemies to soup-like homogenate.",
+    "manual.crusher.line3": "The Crusher can also process blocks such as cobblestone into gravels and reduced forms.{0}",
+    "manual.crusher.line4": "The machine is formed as shown previously by right-clicking the central fence of the long side with the redstone input with an Engineer's Hammer.{0}",
+    "manual.crusher.line5": "The processing speed of the Crusher depends on the power supplied to it, with efficiency kept constant.{0}",
+    "manual.crusher.line6": "Applying a redstone signal to the control panel at the front will halt the crushers process, this behavior can be inverted by use of the Engineer's Screwdriver.{0}",
+    "manual.crusher.line7": "Power is supplied to the plug on top of the shoulder of the machine, and items through the drums at the top. Items are output from the port in the bottom of the front.{0}",
+    "manual.crusher.line8": "Drum crushers are not only used for crushing ores and stones, however. Every living being to fall into the machine will take grave damage and the crusher will output the relevant drops."
+}

@@ -1,0 +1,14 @@
+{
+    "manual.basic_tools.line0": "Basic Tools",
+    "manual.basic_tools.line1": "Hammer & §mSickle§r Screwdriver",
+    "manual.basic_tools.line2": "{0}Engineer's Hammers are one of the most important tools in the engineer's toolbox.{1}",
+    "manual.basic_tools.line3": "It can be used to configure and form machines, as well as crush ores.{0}",
+    "manual.basic_tools.line4": "{0}§lEngineer's Wire Cutters§r are used to remove all the wires connected to a block by simply rightclicking it.{1}",
+    "manual.basic_tools.line5": "Wirecutters can also remove wires strung between poles when worked with.{0}",
+    "manual.basic_tools.line6": "{0}Engineer's Screwdrivers are another common item in toolboxes.{1}",
+    "manual.basic_tools.line7": "They are used for precise configuration on certain pieces of machinery.{0}",
+    "manual.basic_tools.line8": "{0}§lMultimeters§r are used to measure connections.{1}",
+    "manual.basic_tools.line9": "Aiming it at any energy storage or rightclicking it will read its current storage.{0}",
+    "manual.basic_tools.line10": "Sneak+rightclick two connectors to calculate the average loss between them.{0}",
+    "manual.basic_tools.line11": "Multimeters can also be used to read redstone levels of blocks such as redstone connectors and redstone dust."
+}

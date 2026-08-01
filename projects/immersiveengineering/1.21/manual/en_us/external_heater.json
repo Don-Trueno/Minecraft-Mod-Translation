@@ -1,0 +1,11 @@
+{
+    "manual.external_heater.line0": "External Heater",
+    "manual.external_heater.line1": "Now you're cooking with flux!",
+    "manual.external_heater.line2": "{0}The External Heater generates heat from Flux, which it outputs to the heat vents on its sides.{1}",
+    "manual.external_heater.line3": "It cannot produce the reducing atmospheres used in Blast Furnaces, woodsmoke for food preservation, or temperatures necessary for kilns.{0}",
+    "manual.external_heater.line4": "When placed next to a normal furnace, this thermal energy will provide the furnace heat without consuming fuel.{0}",
+    "manual.external_heater.line5": "The sides of the heater can be configured with the Engineer's Hammer, sneak to target the opposing side.{0}",
+    "manual.external_heater.line6": "The heater will consume 8 Flux/t for each furnace it needs to heat. To preheat the furnace, it will take four times that, until the furnace is at temperature.{0}",
+    "manual.external_heater.line7": "When a furnace is at maximum temperature, the External Heater will consume a total §o32 Flux/t§r per furnace for increased smelting speed, unless a redstone signal disables the speed boost.{0}",
+    "manual.external_heater.line8": "Only furnaces which have items to smelt and space to smelt them will be heated."
+}

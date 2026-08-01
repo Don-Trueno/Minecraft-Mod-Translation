@@ -1,0 +1,11 @@
+{
+    "manual.diesel_generator.line0": "Diesel Generator",
+    "manual.diesel_generator.line1": "Better than volume: More volume.",
+    "manual.diesel_generator.line2": "High-Voltage architecture might be fascinating, but an electrical grid isn't very useful unless there is a generator which can provide for it.{0}",
+    "manual.diesel_generator.line3": "The Diesel Generator is the primary method of generating HV power. It will run off of {0}Biodiesel{1} or other heavy fuels, as detailed in the following pages. Due to its high output, it will consume fuel rapidly, so sufficient fuel production is a must.{2}",
+    "manual.diesel_generator.line4": "{0}The engine and generator are constructed from radiators, pipes, engineering blocks, and scaffolding as shown above and formed via activating the central generator with an Engineer's Hammer.{1}",
+    "manual.diesel_generator.line5": "Fuel is to be input at the bottom corners of the generator, and energy will be output to up to three plugs on the bar above the generator.{0}",
+    "manual.diesel_generator.line6": "The {0}Flux/t the generator outputs will be split between all connected plugs. The generator will only run when at least one output can accept energy.{1}",
+    "manual.diesel_generator.line7": "The small terminal on the side will turn off the generator if supplied with a redstone signal, this behavior can be inverted by use of the Engineer's Screwdriver.{0}",
+    "manual.diesel_generator.line8": "The following is a list of fuels the generator can accept and for how long a full bucket will power the generator: {0}"
+}

@@ -1,0 +1,9 @@
+{
+    "manual.feedthrough_insulators.line0": "Feedthrough Insulators",
+    "manual.feedthrough_insulators.line1": "Hole In The Wall Tavern",
+    "manual.feedthrough_insulators.line2": "{0}Wires on their own cannot coexist with rock, or wood, or more industrial materials blocking their path.{1}",
+    "manual.feedthrough_insulators.line3": "With the careful application of terracotta insulation, a solid conduit can be constructed inside of these materials to conduct power.{0}",
+    "manual.feedthrough_insulators.line4": "The Feedthrough Insulator allows two connectors to be merged across one meter walls, and cannot connect more than one wire per connector.{0}",
+    "manual.feedthrough_insulators.line5": "They can be created with any \"normal\" solid block in the middle, by right-clicking either of two connectors with an Engineer's Hammer.{0}",
+    "manual.feedthrough_insulators.line6": "Non-structural connectors can be used to create feedthrough insulators for the corresponding wire type."
+}

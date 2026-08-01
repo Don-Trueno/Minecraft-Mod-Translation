@@ -1,0 +1,10 @@
+{
+    "manual.ear_defenders.line0": "Ear Defenders",
+    "manual.ear_defenders.line1": "LOUD NOISES!",
+    "manual.ear_defenders.line2": "{0}Ear Defenders are devices for protecting your hearing. They are quite important for engineers that work in close proximity to {1}Diesel Generators{2} or other loud machinery.{3}",
+    "manual.ear_defenders.line3": "While wearing Ear Defenders, all noises are reduced by 90% and they make your ears considerably more warm and fuzzy! :D{0}",
+    "manual.ear_defenders.line4": "Placing the Ear Defenders in the {0}Engineer's Workbench{1} allows you to specify which types of noises you want cancelled and by how much their volume should be reduced.{2}",
+    "manual.ear_defenders.line5": "{0}",
+    "manual.ear_defenders.line6": "Crafting them with any other helmet will attach the defenders to that piece of equipment, crafting the helmet alone will remove the defenders again, to allow further customizing.{0}",
+    "manual.ear_defenders.line7": "Ear defenders can be dyed the same as leather armor."
+}

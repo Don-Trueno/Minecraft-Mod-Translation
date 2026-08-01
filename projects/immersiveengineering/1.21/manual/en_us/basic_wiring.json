@@ -1,0 +1,15 @@
+{
+    "manual.basic_wiring.line0": "Basic Wiring",
+    "manual.basic_wiring.line1": "Bzzzt!",
+    "manual.basic_wiring.line2": "{0}Power grids have three important devices: §lconnectors§r in- and output to the net, §lrelays§r attach multiple wires together, and {1}Transformers{2} that convert between different voltages of wire.{3}",
+    "manual.basic_wiring.line3": "{0}§lConnectors§r serve as in- and outputs to the electrical grid. Powered devices connected with them will transfer power through the grid.{1}",
+    "manual.basic_wiring.line4": "§lRelays§r will not in- or output power, they serve as hubs for the electrical grid.{0}",
+    "manual.basic_wiring.line5": "{0}To connect two devices, use a §lwire coil§r on the first one, then use the same coil on the second. Connections will break if a block obstructs the wire.{1}",
+    "manual.basic_wiring.line6": "The transfer rate between two points depends on the lowest tier of wire between them.{0}",
+    "manual.basic_wiring.line7": "Connectors and relays can only take wires of the same voltage that the device was designed for. Transformers will only take two wires of different voltages, and voltages only work with devices designed for them.{0}",
+    "manual.basic_wiring.line8": "Low and medium voltage wires can be insulated to prevent damage to nearby creatures.{0}",
+    "manual.basic_wiring.line9": "Sneaking when using the \"Pick Block\" function on a connector will pick the connected wire from your inventory.{0}",
+    "manual.basic_wiring.line10": "Connectors have a maximum power they will transmit in IF/t (§o{0}§r), and wires have a maximum power before they fail (§o{1}§r) IF/t.{2}",
+    "manual.basic_wiring.line11": "Multiple connectors can §ounify§r onto a single wire using relays, centralizing long-range transfer to just a single wire. If enough connectors are unified that the §omaximum transfer rate§r exceeds that of the wire, §othe wire will burn up§r.{0}",
+    "manual.basic_wiring.line12": "Only the input and output of a wire need be working for the wire to transfer energy, which means that large distances can be bridged with high- voltage wires to transfer energy to friends or far outposts."
+}

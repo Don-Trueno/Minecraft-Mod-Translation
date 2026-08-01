@@ -1,0 +1,7 @@
+{
+    "manual.electromagnet.line0": "Electromagnet",
+    "manual.electromagnet.line1": "Unnaturally attractive",
+    "manual.electromagnet.line2": "{0}The Electromagnet is a large coil of wire wound around a ferromagnetic core which creates a magnetic field when provided with electric current.{1}",
+    "manual.electromagnet.line3": "This field attracts nearby items to the magnet, ideal for spoil collection from (mob-)farms.{0}",
+    "manual.electromagnet.line4": "The magnet runs continuously while it is being supplied with power, but can be disabled with a redstone signal. This behavior can be inverted by sneaking and rightclicking it with an Engineer's Screwdriver."
+}

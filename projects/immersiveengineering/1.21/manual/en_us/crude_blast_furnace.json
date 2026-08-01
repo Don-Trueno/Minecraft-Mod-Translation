@@ -1,0 +1,10 @@
+{
+    "manual.crude_blast_furnace.line0": "Crude Blast Furnace",
+    "manual.crude_blast_furnace.line1": "Simple Steel",
+    "manual.crude_blast_furnace.line2": "{0}The Crude Blast Furnace is used to increase the carbon contents in iron, turning it into TD LINK STEEL.{1}",
+    "manual.crude_blast_furnace.line3": " To achieve this, only pure, high-carbon fuels may be used for the furnace, such as {0}coal coke and charcoal{1}.{2}",
+    "manual.crude_blast_furnace.line4": "{0}Along with steel, the furnace will also create {1}slag{2}, which you must remove or the furnace will cease to function.{3}",
+    "manual.crude_blast_furnace.line5": "While it is technically a waste product, there are various ways to recycle it, such as {0}brick construction{1} or {2}concrete{3}.{4}",
+    "manual.crude_blast_furnace.line6": "{0}To form a Blast Furnace, arrange 27 of the furnace bricks in a 3x3x3 cube, and rightclick one of the sides' center blocks with an Engineer's Hammer.{1}",
+    "manual.crude_blast_furnace.line7": "The Crude Blast Furnace is §lnot§r automateable. All in- and outputs must be arranged manually through its GUI. If you want to automate the creation of steel, you should probably look into creating an {0}Improved Blast Furnace{1}."
+}

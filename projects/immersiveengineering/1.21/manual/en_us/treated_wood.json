@@ -1,0 +1,9 @@
+{
+    "manual.treated_wood.line0": "Treated Wood",
+    "manual.treated_wood.line1": "Highly Durable",
+    "manual.treated_wood.line2": "{0}Treated wood is any kind of wooden planks impregnated with {1}Creosote Oil{2}.{3}",
+    "manual.treated_wood.line3": "Despite their simplicity, these weatherproof planks are used throughout industrial matters where a durable wood is needed.{0}",
+    "manual.treated_wood.line4": "{0}",
+    "manual.treated_wood.line5": "{0}Treated wood can also be used to craft §2Wallmounts§r, which can be very useful to mount connectors in a visually attractive way without using posts.{1}",
+    "manual.treated_wood.line6": "Wallmounts can be placed facing upwards or downwards, and do not automatically connect to blocks placed near them."
+}

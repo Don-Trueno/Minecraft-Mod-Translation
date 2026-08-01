@@ -1,0 +1,8 @@
+{
+    "manual.charging_station.line0": "Charging Station",
+    "manual.charging_station.line1": "Charge your glasses!",
+    "manual.charging_station.line2": "{0}The Charging Station is a device that allows you to charge tools and other items that can accept energy.{1}",
+    "manual.charging_station.line3": "Power can be input through the bottom or the back and items can be placed in manually or inserted automatically.{0}",
+    "manual.charging_station.line4": "The electron tubes at the front give a feedback about the charge fraction of the item.{0}",
+    "manual.charging_station.line5": "Comparators can be used to read the current charge fraction of the item as a redstone signal.{0}"
+}

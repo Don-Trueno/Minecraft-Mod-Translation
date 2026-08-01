@@ -1,0 +1,12 @@
+{
+    "manual.basic_metal_products.line0": "Basic Metal Products",
+    "manual.basic_metal_products.line1": "Shapes & Colors",
+    "manual.basic_metal_products.line2": "{0}Alloys are specialty metals used in advanced applications, and can be created from grit or in alloying furnaces.{1}",
+    "manual.basic_metal_products.line3": "Steel is used for structural engineering and decoration, electrum for {0}electrical engineering{1}, and constantan for {2}thermal engineering{3}.{4}",
+    "manual.basic_metal_products.line4": "{0}Metal plates are a crafting material required for the creation of most machines and components.{1}",
+    "manual.basic_metal_products.line5": "They are made by hammering an ingot with an Engineer's Hammer or in a {0}Metal Press{1}.{2}",
+    "manual.basic_metal_products.line6": "{0}Metal rods are a crafting material used in many components or decorations, such as scaffolding.{1}",
+    "manual.basic_metal_products.line7": "They can be crafted or made in a {0}Metal Press{1}.{2}",
+    "manual.basic_metal_products.line8": "{0}Wires are the backbone of power transfer and are used in many electronic components.{1}",
+    "manual.basic_metal_products.line9": "They are made by cutting a plate with Engineer's Wire Cutters or in a {0}Metal Press{1}."
+}

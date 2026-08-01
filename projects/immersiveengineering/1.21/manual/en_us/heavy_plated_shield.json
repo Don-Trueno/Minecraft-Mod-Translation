@@ -1,0 +1,8 @@
+{
+    "manual.heavy_plated_shield.line0": "Heavy Plated Shield",
+    "manual.heavy_plated_shield.line1": "One Woman Phalanx",
+    "manual.heavy_plated_shield.line2": "{0}The Heavy Plated Shield is a direct upgrade to the normal wooden shields you might be acquainted with. In similar fashion, this shield will block most incoming damage from the front, but its durability has been increased considerably, and it can be upgraded.{1}",
+    "manual.heavy_plated_shield.line3": "{0}The §2Flashbulb§r upgrade adds a bright lightbulb and reflector screen to the shield. Upon being attacked, the device will produce a bright, blinding flash, disorienting everyone in front of the user.{1}",
+    "manual.heavy_plated_shield.line4": "{0}Adding §2Shock Emitters§r to the shield allows you to retaliate against attacking enemies. When the shield is struck, it will emit a shock, inflicting minor damage to the aggressor. Additionally, it will vapourize projectiles rather than just stopping them.{1}",
+    "manual.heavy_plated_shield.line5": "{0}The §2Magnetic Glove§r serves as an easy way to access the shield when threatened. With this upgrade equipped, simply double-tapping the §l{1}§r Key will have you retrieve the shield from your inventory and place it in your offhand slot."
+}

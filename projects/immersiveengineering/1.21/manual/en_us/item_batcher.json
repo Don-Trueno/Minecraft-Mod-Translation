@@ -1,0 +1,11 @@
+{
+    "manual.item_batcher.line0": "Item Batcher",
+    "manual.item_batcher.line1": "Come together, right now",
+    "manual.item_batcher.line2": "{0}The Item Batcher is designed to collect a set of items from an inputting conveyor before sending them onwards, in order to transfer optimized batch sizes to machinery.{1}",
+    "manual.item_batcher.line3": "In §2batched mode§r, incoming items will be accepted into the inventory directly below the filters, and the collected batch will only be output when all filters are satisfied.{0}",
+    "manual.item_batcher.line4": "Once the output mode of the device has been adjusted to §2single mode§r, any item that satisfies its filtered quantity will be output instead.{0}",
+    "manual.item_batcher.line5": "The connections below the filters of the buffer set the target color of {0}redstone wire{1} through attached {2}Redstone Interface Connectors{3}.{4}",
+    "manual.item_batcher.line6": "When each individual filter is satisfied, a high signal on its configured color will be sent out through the connector.{0}",
+    "manual.item_batcher.line7": "Note that if multiple filters use the same colour, all must be satisfied for a signal to output.{0}",
+    "manual.item_batcher.line8": "These signals can be used to configure machinery, displays, or other contraptions to control entire factories."
+}

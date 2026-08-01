@@ -1,0 +1,11 @@
+{
+    "manual.slag_products.line0": "Slag Products",
+    "manual.slag_products.line1": "Zero Waste!",
+    "manual.slag_products.line2": "{0}§2Slag Gravel§r is slag that has been ground in the {1}Crusher{2} to a rough grit. As with other gravels, it can be crushed further into sand.{3}",
+    "manual.slag_products.line3": "Additionally, slag gravel contains valuable nutrients for aquatic flora. Waterlogged plants placed on slag gravel grow faster than when grown on other blocks.{0}",
+    "manual.slag_products.line4": "{0}Remelting slag in a §2Furnace§r vitrifies it to a hard, darkened §2slag glass§r.{1}",
+    "manual.slag_products.line5": "This glass reduces the strength of light passing through it and can be used as an insulator in {0}high-voltage relays{1}.",
+    "manual.slag_products.line6": "{0}§2Slag Bricks§r are slag shaped into bricks similar in most respects to clay bricks.{1}",
+    "manual.slag_products.line7": "The ceramic in slag bricks is tougher than that of standard clay bricks, able to withstand explosions more readily.{0}",
+    "manual.slag_products.line8": "Slag Bricks can be formed into stairs, slabs, and walls, which have a small sill of baked brick on the top-most layer."
+}

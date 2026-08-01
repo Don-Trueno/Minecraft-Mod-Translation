@@ -1,0 +1,13 @@
+{
+    "manual.bottling_machine.line0": "Bottling Machine",
+    "manual.bottling_machine.line1": "Fill 'er up!",
+    "manual.bottling_machine.line2": "{0}The Bottling Machine fills fluids into containers or molds.{1}",
+    "manual.bottling_machine.line3": "The structure is created as shown above, but can be mirrored. To form it, rightclick the central conveyor with an Engineer's Hammer. The direction of the conveyors is important.{0}",
+    "manual.bottling_machine.line4": "The machine can store 8 buckets of fluid, which is input through the ports on the metal tank. Energy is input through the connection at the top of the opposing side.{0}",
+    "manual.bottling_machine.line5": "Generally, the Bottling Machine will be able to fill any container that has a filled version available (bucket, glass bottle). It will also accept other items that can store fluids, like the {0}Mining Drill{1} or a {2}Jerrycan{3}.{4}",
+    "manual.bottling_machine.line6": "The machine will hold onto a container until it is completely full, or the machine is not being supplied with any more fluid.{0}",
+    "manual.bottling_machine.line7": "This allows it to fill even larger containers, provided it receives a steady input of fluid.{0}",
+    "manual.bottling_machine.line8": "This behavior can be disabled by sneaking and rightclicking it with an Engineer's Hammer.{0}",
+    "manual.bottling_machine.line9": "{0}The machine can be used to bottle any potions that were brewed in the {1}Mixer{2}.{3}",
+    "manual.bottling_machine.line10": "Additionally, it serves to create {0}duroplast items{1} from resin and {2}oxidize copper blocks{3} with redstone acid."
+}

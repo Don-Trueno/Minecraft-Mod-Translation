@@ -1,0 +1,9 @@
+{
+    "manual.accumulators.line0": "Accumulators",
+    "manual.accumulators.line1": "Power 2 Go",
+    "manual.accumulators.line2": "{0}§lAccumulators§r serve as energy storage units. Input and output power is limited to one connector of the voltage of the accumulator per side.",
+    "manual.accumulators.line3": "",
+    "manual.accumulators.line4": "Side configuration can be adjusted with the hammer: Blue corresponds to input, orange corresponds to output, and no colour marking preventing any connection at all.",
+    "manual.accumulators.line5": "",
+    "manual.accumulators.line6": "Sneaking while configuring a side will configure the side opposite to the one that was clicked."
+}

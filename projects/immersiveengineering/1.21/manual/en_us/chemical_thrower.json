@@ -1,0 +1,12 @@
+{
+    "manual.chemical_thrower.line0": "Chemical Thrower",
+    "manual.chemical_thrower.line1": "BURN ALL THE THINGS!",
+    "manual.chemical_thrower.line2": "The Chemical Thrower is a device that propels fluids and optionally ignites from its internal tanks.{0}",
+    "manual.chemical_thrower.line3": "The device can be loaded with any fluid, liquid or gas, and, on right click, will spray it out.{0}",
+    "manual.chemical_thrower.line4": "To toggle the pilot light for the ignition of flammable fluids, sneak and right-click.{0}",
+    "manual.chemical_thrower.line5": "Like some other tools, the chemical thrower can be modified in the {0}Engineer's Workbench{1}. These upgrades affect the size of the tank, range and spread and are described on the following pages.{2}",
+    "manual.chemical_thrower.line6": "{0}The §2Large Tank§r increases the fluid capacity of the Chemical Thrower by 2000 mb.",
+    "manual.chemical_thrower.line7": "{0}The §2Focused Nozzle§r decreases the spread of fluids sprayed out and also slightly increases their range, allowing you to hit further targets with more precision.",
+    "manual.chemical_thrower.line8": "{0}The §2Multitank§r allows the Chemthrower to store up to three different Fluids. You can select the active tank by {1}sneaking and using the scrollwheel, or through use of{2}using{3} the keybind §l{4}§r if it has been set in the options.",
+    "manual.chemical_thrower.line9": "This upgrade is mutually exclusive to the §2Large Tank§r."
+}

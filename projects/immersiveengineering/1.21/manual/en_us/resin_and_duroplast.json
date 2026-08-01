@@ -1,0 +1,15 @@
+{
+    "manual.resin_and_duroplast.line0": "Resin and Duroplast",
+    "manual.resin_and_duroplast.line1": "It's fantastic!",
+    "manual.resin_and_duroplast.line2": "{0}{1}Phenolic Resin{2} is the first step to producing plastic products.{3}",
+    "manual.resin_and_duroplast.line3": "To produce this resin, the precursor {0}Acetaldehyde{1} must be produced by oxidizing {2}Ethanol{3} with a §2Silver Plate§r as the catalyst.{4}",
+    "manual.resin_and_duroplast.line4": "Then, this precursor must be combined with {0}Creosote Oil{1}. Both of these processes happen in the {2}§o§nRefinery§r{3}.{4}",
+    "manual.resin_and_duroplast.line5": "{0}",
+    "manual.resin_and_duroplast.line6": "Duroplast is a synthetic plastic created from {0}Phenolic Resin{1}. This incredible new material is rigid, non-flammable and not conductive, making it an excellent insulator in electrical engineering.{2}",
+    "manual.resin_and_duroplast.line7": "The easy moldability of plastic resins also allows it to be formed into a variety of shapes, such as sheets and blocks.{0}",
+    "manual.resin_and_duroplast.line8": "{0}Duroplast items are created by filling appropriate {1}molds{2} with resin in the {3}§o§nBottling §o§nMachine§r{4}. The machine is able to confer enough heat and pressure within these molds to trigger the resin to harden.{5}",
+    "manual.resin_and_duroplast.line9": "The resulting sheets are used in the creation of {0}Advanced Electronic Components{1} and {2}Circuit Backplanes{3}, where they act as insulators.{4}",
+    "manual.resin_and_duroplast.line10": "{0}Solid blocks of duroplast can be used for construction and decorational purposes, though not everyone appreciates their colour. More importantly however, they serve to replace §2Terracotta§r when crafting {1}wire connectors and relays{2}, thus reducing the amount of clay required!{3}",
+    "manual.resin_and_duroplast.line11": "{0}Fiberboard is made from compressed {1}sawdust{2}, mixed with resin to create a dense and compressed block. It shares its properties with wood and can be used as a replacement for planks in most recipes. An excellent way to recycle what would otherwise be waste!",
+    "manual.resin_and_duroplast.line12": "{0} You can also use resin in the creation of empty shells for the {1}Revolver's cartridges{2}, making them cheaper and easier to mass produce."
+}

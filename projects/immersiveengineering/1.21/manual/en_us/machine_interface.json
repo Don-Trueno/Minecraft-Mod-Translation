@@ -1,0 +1,13 @@
+{
+    "manual.machine_interface.line0": "Machine Interface",
+    "manual.machine_interface.line1": "Querying Complex Conditions Quickly",
+    "manual.machine_interface.line2": "{0}With the increasing complexity of multiblock machinery, keeping track of their needs becomes quite complex.{1}",
+    "manual.machine_interface.line3": "While {0}comparator signals{1} can provide some insight into the amount of items inside, only the Machine Interface can provide a more detailed evaluation and send redstone signals.{2}",
+    "manual.machine_interface.line4": "When placed against the redstone control surface of a multiblock, opening the GUI will allow setting up a variety of conditions by which to output a signal.{0}",
+    "manual.machine_interface.line5": "Press the \"Add Condition\" button to add a new row. Within that row, the first button serves to delete it again, the second one is for configuring the signal color to output on.{0}",
+    "manual.machine_interface.line6": "This is followed by two dropdown menus, one for selecting the type of check (such as \"Machine Active\", \"Item Input\", \"Fluid Output\") and one for selecting the condition.{0}",
+    "manual.machine_interface.line7": "Most checks support \"Comparator Output\" for a signal strength that is scaled to the items/fluid/energy stored. There also exists various from true or false options, such as \"75% Filled\" or \"Empty\".{0}",
+    "manual.machine_interface.line8": "As soon as a condition is matched, the Machine Interface will output the relevant signal on the configured color-channel to any attached {0}Redstone Interface Connector{1}.{2}",
+    "manual.machine_interface.line9": "In addition to sending, the Machine Interface can also receive a redstone signal and output it to the connected machine. The signal color for that is configured in the bottom right of the GUI.{0}",
+    "manual.machine_interface.line10": "This allows for use of the {0}Logic Unit{1} to evaluate the signals coming from the machine and then send one back to enable or disable it!"
+}

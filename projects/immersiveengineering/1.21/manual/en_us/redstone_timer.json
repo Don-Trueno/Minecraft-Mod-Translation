@@ -1,0 +1,7 @@
+{
+    "manual.redstone_timer.line0": "Redstone Timer",
+    "manual.redstone_timer.line1": "Tick tock, tick tock!",
+    "manual.redstone_timer.line2": "The timer is a redstone device that uses an oscillating quartz crystal to output a signal at regular intervals.{0}",
+    "manual.redstone_timer.line3": "Using the Engineer's Screwdriver on the timer allows configuring its interval and its output signal colour.{0}",
+    "manual.redstone_timer.line4": "Additionally, the timer can be set to require a control signal, at which point it will not run without that signal being high."
+}

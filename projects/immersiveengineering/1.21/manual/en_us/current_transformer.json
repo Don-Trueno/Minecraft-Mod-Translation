@@ -1,0 +1,7 @@
+{
+    "manual.current_transformer.line0": "Current Transformer",
+    "manual.current_transformer.line1": "88 Flux per hour!",
+    "manual.current_transformer.line2": "The Current Transformer is a measurement device for electrical throughput.{0}",
+    "manual.current_transformer.line3": "It can be hooked up in any powerline and will keep track of energy transferred through it, returning an average Flux/t upon rightclick.{0}",
+    "manual.current_transformer.line4": "If a comparator is attached to the base of the transformer, it will output a signal from 0-15 depending upon the fill ratio of the wire's maximum transfer rate."
+}

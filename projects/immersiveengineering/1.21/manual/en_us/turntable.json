@@ -1,0 +1,8 @@
+{
+    "manual.turntable.line0": "Turntable",
+    "manual.turntable.line1": "I can't keep up",
+    "manual.turntable.line2": "{0}The Turntable will rotate blocks placed against its front side through various angles.{1}",
+    "manual.turntable.line3": "Holding an Engineer's Hammer while looking at a side of the machine displays its rotating side and the turn direction associated with the targeted side.{0}",
+    "manual.turntable.line4": "The turn direction is set individually for each of the 4 sides around the turning axis, allowing for ±90° or 180° turns, depending on which side receives the redstone signal.{0}",
+    "manual.turntable.line5": "Rightclicking with the Hammer will reorient it, sneaking while doing so will cycle through the Turntable's turn directions."
+}

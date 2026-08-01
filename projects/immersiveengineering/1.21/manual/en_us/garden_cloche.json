@@ -1,0 +1,11 @@
+{
+    "manual.garden_cloche.line0": "Garden Cloche",
+    "manual.garden_cloche.line1": "Localized Rainforest",
+    "manual.garden_cloche.line2": "{0}Garden Cloches are machines designed to hasten the growth of plants in a controlled, semi hydroponic environment.{1}",
+    "manual.garden_cloche.line3": "It allows even agriculturally challenged engineers to grow plants quickly and automatically harvest their produce.{0}",
+    "manual.garden_cloche.line4": "The device accepts power through the plugs on the top and sides, and fluid and items through the other ports.{0}",
+    "manual.garden_cloche.line5": "When provided with power and water, the Garden Cloche will use the water to grow crops.{0}",
+    "manual.garden_cloche.line6": "Providing fertilizers such as {0}Sulfur{1} or {2}Industrial Fertilizer{3} will boost the growth speed significantly. Only one fertilizer will be used at a time, and will stay dissolved in the water until it is finished.{4}",
+    "manual.garden_cloche.line7": "Soil and seeds are placed in the middle; each seed requires the correct soil to grow on, with dirt being automatically tilled into farmland.{0}",
+    "manual.garden_cloche.line8": "Produced items are stored in the slots on the right, and will be automatically output through the hatch at the front of the glass dome."
+}

@@ -1,0 +1,19 @@
+{
+    "manual.crafting_components.line0": "Crafting Components",
+    "manual.crafting_components.line1": "Integral Pieces",
+    "manual.crafting_components.line2": "Many machines and tools are constructed from various sub-components. Some of these you will have to use on a regular basis, detailed on the following pages.{0}",
+    "manual.crafting_components.line3": "Simple components can be crafted in the regular §2Crafting Table§r, but advanced components will need the help of a {0}specialized workbench{1}.{2}",
+    "manual.crafting_components.line4": "{0}The §2Basic Engineering Block§r serves as the main construction material for a large variety of machinery. It makes up a core frame for most single-block machinery, especially in matters of transportation and power storage.",
+    "manual.crafting_components.line5": "{0}The §2Iron§r and §2Steel Mechanical Components§r are integral to the majority of machinery large and small.{1}",
+    "manual.crafting_components.line6": "As you will find yourself creating these components more frequently, it may be advisable to draft a {0}Blueprint{1} for them.{2}",
+    "manual.crafting_components.line7": "{0}",
+    "manual.crafting_components.line8": "Instructions for drafting this blueprint can be found {0}here{1}.{2}",
+    "manual.crafting_components.line9": "Using this blueprint in an {0}Engineer's Workbench{1} will allow you to construct simple components at a reduced cost.{2}",
+    "manual.crafting_components.line10": "Blueprints are necessary for more advanced components, as detailed on the following pages.{0}",
+    "manual.crafting_components.line11": "{0}§2Electronic Components§r are more complicated and less commonly used than their mechanical counterpart. They are however essential for any devices with an extended level of control such as the {1}Item Batcher{2} or {3}Turrets{4}.{5}",
+    "manual.crafting_components.line12": "{0}§2Incandescent Light Bulbs§r are made of a carbonized bamboo or paper filament which produce light and warmth when powered. They are primarily used to craft {1}lanterns{2}.{3}",
+    "manual.crafting_components.line13": "{0}Another, albeit less frequently used component are §2Vacuum Tubes§r. These expensive ingredients are used in {1}Logic Circuits{2} and more complex electronic machinery.{3}",
+    "manual.crafting_components.line14": "{0}The §2Circuit Backplane§r is an insulated copper board that can have a variety of components soldered to it in order to create {1}Logic Circuits{2}.",
+    "manual.crafting_components.line15": "",
+    "manual.crafting_components.line16": ""
+}

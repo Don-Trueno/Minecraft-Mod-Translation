@@ -1,0 +1,13 @@
+{
+    "manual.coke_oven.line0": "Coke Oven",
+    "manual.coke_oven.line1": "Purity in Pyrolysis",
+    "manual.coke_oven.line2": "{0}The Coke Oven is the first important machine on the engineer's journey.{1}",
+    "manual.coke_oven.line3": "The brick oven heats up fuels in a low-oxygen environment, pyrolyzing them into a more carbon-rich version, such as §2Coal Coke§r, or §2Charcoal§r.{0}",
+    "manual.coke_oven.line4": "A byproduct of this process is {0}Creosote Oil{1}, which is used as a {2}preservative for wood{3}. This preserved wood serves as a basic construction material all throughout.{4}",
+    "manual.coke_oven.line5": "The coking process is §oslow§r, but works in batches, allowing up to §216 pieces of coal§r or §28 wooden logs§r to be processed at the same time.",
+    "manual.coke_oven.line6": "As such, it's recommended to build multiple ovens and stock them with enough fuel to be efficient.{0}",
+    "manual.coke_oven.line7": "The Coke Oven can be automated to facilitate a more industrial scale of fuel and oil production.{0}",
+    "manual.coke_oven.line8": "Items can be inserted and extracted by use of hoppers or {0}conveyor belts{1}.{2}",
+    "manual.coke_oven.line9": "The creosote oil can be extracted by use of a {0}fluid pump{1}, as the oven will §onot§r output it automatically.{2}",
+    "manual.coke_oven.line10": "{0}To form a Coke Oven, arrange 27 of these blocks in a 3x3x3 cube, and right-click one of the sides' center blocks with an Engineer's Hammer."
+}

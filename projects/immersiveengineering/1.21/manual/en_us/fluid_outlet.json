@@ -1,0 +1,8 @@
+{
+    "manual.fluid_outlet.line0": "Fluid Outlet",
+    "manual.fluid_outlet.line1": "And Now The Floodgates Will Open",
+    "manual.fluid_outlet.line2": "{0}Fluid Outlets are open grates that act as endpoints for pipe systems where fluids can flow out into the world.{1}",
+    "manual.fluid_outlet.line3": "Fluid can only be filled up to the level of the outlet's sides, and once that level is reached backflow will prevent fluid flow.{0}",
+    "manual.fluid_outlet.line4": "The sides of the outlet can be changes between input, output, or closed with the Engineer's Hammer.{0}",
+    "manual.fluid_outlet.line5": "Redstone signals will prevent fluid from flowing into the Fluid Outlet and thus the world."
+}

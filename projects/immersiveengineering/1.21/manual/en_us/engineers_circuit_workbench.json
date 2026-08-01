@@ -1,0 +1,17 @@
+{
+    "manual.engineers_circuit_workbench.line0": "Engineer's Circuit Workbench",
+    "manual.engineers_circuit_workbench.line1": "Don't Breathe the Fumes",
+    "manual.engineers_circuit_workbench.line2": "Using the Circuit Workbench, complex redstone logic circuits can be compressed from several square meters onto just a single board.{0}",
+    "manual.engineers_circuit_workbench.line3": "§2Logic Circuits§r are made from {0}Vacuum Tubes{1} mounted to {2}backplanes{3} using solder such as §2Lead Wire§r or §2Copper Wire§r.{4}",
+    "manual.engineers_circuit_workbench.line4": "Due to the need to solder components to the board, power must be supplied to the plug on the back of the table.{0}",
+    "manual.engineers_circuit_workbench.line5": "Using the various components, you then select the pattern of circuit you want to make and decide the input values, as well as the designated output.{0}",
+    "manual.engineers_circuit_workbench.line6": "The available in- and outputs are the 16 colored channels of a Redstone wire, as well as 8 \"Registers\".{0}",
+    "manual.engineers_circuit_workbench.line7": "These allow for a temporary storage of a value within the block that handles the logic, as detailed later.{0}",
+    "manual.engineers_circuit_workbench.line8": "After setting the operator, in- and outputs, the required components are listed next to the input slots on the left.{0}",
+    "manual.engineers_circuit_workbench.line9": "The amount of components required depends on the complexity of the circuit, with §lNAND§r being the easiest to produce.{0}",
+    "manual.engineers_circuit_workbench.line10": "As long as enough components are present, you can then take the completed circuit from the output on the right.{0}",
+    "manual.engineers_circuit_workbench.line11": "Several helpful tips are detailed upon the following pages for configuring logic circuits in the workbench.{0}",
+    "manual.engineers_circuit_workbench.line12": "Helpful shortcuts:{0}",
+    "manual.engineers_circuit_workbench.line13": "When hovering over a in- or output button, press a numbered key to change it to the numbered register. Press a letter to cycle through the colors starting with that letter.{0}",
+    "manual.engineers_circuit_workbench.line14": "Pick up a finished logic circuit and click it on the center of the circuit table's interface to copy the instructions to the table."
+}

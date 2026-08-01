@@ -1,0 +1,10 @@
+{
+    "manual.refinery.line0": "Refinery",
+    "manual.refinery.line1": "Fluid mixing!",
+    "manual.refinery.line2": "{0}Many processes necessitate the addition of a catalyst. The refinery passes its input fluids through a mixer and a catalyst at the same time, producing novel outputs from one or two inputs.{1}",
+    "manual.refinery.line3": "To form the machine, construct it as shown and rightclick the Heavy Engineering Block on the middle layer.{0}",
+    "manual.refinery.line4": "Fluids are input through the two ports on either side of the block and output through the orange marked port at the front. Using buckets to interact with the refinery's tanks is also possible.{0}",
+    "manual.refinery.line5": "Applying a redstone signal to the control panel at the front will halt the machine's process, this behavior can be inverted by use of the Engineer's Screwdriver.{0}",
+    "manual.refinery.line6": "Most refinery processes require the addition of a catalyst to enable the reaction. This catalyst is not consumed, but the process will not work without it. Catalysts cannot, and need not, be input automatically.{0}",
+    "manual.refinery.line7": "The most important fluids made with the refinery are {0}Biodiesel{1}, and {2}Phenolic Resin{3}."
+}

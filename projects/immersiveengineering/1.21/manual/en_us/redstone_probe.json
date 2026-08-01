@@ -1,0 +1,22 @@
+{
+    "manual.redstone_probe.line0": "Redstone Probe Connector",
+    "manual.redstone_probe.line1": "Comparatively exciting",
+    "manual.redstone_probe.line2": "Probe Connectors are a compact device with many functions of the §2redstone comparator§r.{0}",
+    "manual.redstone_probe.line3": "Comparator signal levels will be output on the redstone wire connected. Additionally, a §lsignal thresholds§r can be set where the probe will only output if the signal is above the given threshold.{0}",
+    "manual.redstone_probe.line4": "These probes can operate on two channels, sending their read signal on one while still receiving and outputting signals on another. All these settings are configured by using the Engineer's Screwdriver.{0}",
+    "manual.redstone_probe.line5": "Note that many multiblocks feature comparator-support, as described on the following pages. Where available, the redstone control surface of the multiblock is the designated spot to connect a comparator or probe connector.{0}",
+    "manual.redstone_probe.line6": "§lTank: §rAs detailed in its {0}manual entry{1}",
+    "manual.redstone_probe.line7": "§lSilo: §rAs detailed in its {0}manual entry{1}",
+    "manual.redstone_probe.line8": "§lAssembler: §rOutputs a signal relative to the fill of the inventory.",
+    "manual.redstone_probe.line9": "§lAutomated Workbench: §rOutputs a signal relative to the fill of the inventory.",
+    "manual.redstone_probe.line10": "§lCrusher: §rOutputs a signal relative to the fill of the inventory.",
+    "manual.redstone_probe.line11": "§lSawmill: §rOutputs a signal relative to the integrity of the sawblade.{0}",
+    "manual.redstone_probe.line12": "§lArc Furnace: §rOutputs a signal relative to the fill of the inventory.",
+    "manual.redstone_probe.line13": "A comparator at the electrodes at the top will send a signal reflecting the integrity of the most damaged electrode.",
+    "manual.redstone_probe.line14": "§lSqueezer: §rOutputs a signal relative to the fill of the inventory.",
+    "manual.redstone_probe.line15": "§lFermenter: §rOutputs a signal relative to the fill of the inventory.",
+    "manual.redstone_probe.line16": "§lMixer: §rOutputs a signal relative to the fill of the inventory.{0}",
+    "manual.redstone_probe.line17": "§lExcavator: §rOutputs a signal relative to the remaining ore in the vein.{0}",
+    "manual.redstone_probe.line18": "{0}",
+    "manual.redstone_probe.line19": "For more detailed analysis of the various multiblocks, their inventories, energy- and fluid storages, consider using the {0}Machine Interface{1} instead."
+}

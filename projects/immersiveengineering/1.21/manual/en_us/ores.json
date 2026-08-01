@@ -1,0 +1,14 @@
+{
+    "manual.ores.line0": "Ores",
+    "manual.ores.line1": "Diggy diggy hole",
+    "manual.ores.line2": "{0}§lBauxite Ore§r can be found in the world between layers {1} and {2}, and requires a pickaxe or tool of stone or better to harvest.{3}",
+    "manual.ores.line3": "The raw ore will smelt into aluminium ingots, which are an integral part of high-voltage architecture.",
+    "manual.ores.line4": "{0}§lLead Ore§r can be found in the world between layers {1} and {2}, and requires a pickaxe or tool of iron or better to harvest.{3}",
+    "manual.ores.line5": "The raw ore will smelt into lead ingots, which are used in creating early accumulators, bullets, and industrial dyes.",
+    "manual.ores.line6": "{0}§lSilver Ore§r can be found in the world between layers {1} and {2}, and requires a pickaxe or tool of iron or better to harvest.{3}",
+    "manual.ores.line7": "The raw ore will smelt into silver ingots, which can be used in mirrors or alloyed with gold to create electrum, a far more effective conductor.",
+    "manual.ores.line8": "{0}§lNickel Ore§r can be found in the world between layers {1} and {2}, but more abundantly below {3}. It requires a pickaxe or tool of iron or better to harvest.{4}",
+    "manual.ores.line9": "The raw ore will smelt into nickel ingots, which can be used in accumulators, or  alloyed with copper to create constantan, for use in {0}Thermoelectric Generators{1}.",
+    "manual.ores.line10": "{0}§lUranium Ore§r can be found in the world between layers {1} and {2}, and requires a pickaxe or tool of iron or better to harvest.{3}",
+    "manual.ores.line11": "The raw ore will smelt into uranium ingots, but there are few uses for the metal. Uranium blocks can serve as heat sources for the {0}Thermoelectric Generator{1}, and the metal will be used in future endeavours."
+}

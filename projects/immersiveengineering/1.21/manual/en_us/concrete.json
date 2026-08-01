@@ -1,0 +1,16 @@
+{
+    "manual.concrete.line0": "Concrete",
+    "manual.concrete.line1": "Fortress Material",
+    "manual.concrete.line2": "{0}Concrete is a very hard and resistant composite material. It's cheap to craft and makes for an excellent use for crushed excess {1}slag{2} produced by making steel.",
+    "manual.concrete.line3": "{0}Concrete can be cut and assembled into various bricks and pillars using the §2Stonecutter§r.{1}",
+    "manual.concrete.line4": "Concrete bricks have the same blast resistance as concrete, but can be disassembled faster than their solid counterpart, making them a good structural material.",
+    "manual.concrete.line5": "{0}Concrete can be cut into slabs of varying thickness using a §2Stonecutter§r.{1}",
+    "manual.concrete.line6": "You can also use that machine to make slabs and stairs of concrete, as well as concrete tiles which are smoother and more polished.",
+    "manual.concrete.line7": "{0}Lead plating added to concrete, makes it a little more resistant to explosions.{1}",
+    "manual.concrete.line8": "More importantly however, it prevents etheric energies from penetrating it, blocking any teleporting through it for End-creatures, Ender Pearls and Chorus Fruits.",
+    "manual.concrete.line9": "{0}Reinforced concrete is made from {1}liquid concrete{2} shaped around bars of §2Netherite§r, making it highly resistant to even powerful explosions like those of a Wither.",
+    "manual.concrete.line10": "{0}Liquid concrete can be produced in a {1}Mixer{2} by combining half a bucket of Water with §2Gravel§r, §2Clay§r and §2two pieces of Sand§r. When emptied onto the ground it will spread like water, before solidifying after some time.{3}",
+    "manual.concrete.line11": "Multiple buckets can be used to fill a larger area by placing it at key locations.",
+    "manual.concrete.line12": "Note that if it spreads too thin, the liquid will dry into slabs instead of full blocks.{0}",
+    "manual.concrete.line13": "If the concrete dries while a creature is standing in it, they will be trapped and unable to move. You can also fill a {0}Chemical Thrower{1} with liquid concrete in order to create improvised platforms or immobilize enemies."
+}

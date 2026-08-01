@@ -1,0 +1,17 @@
+{
+    "manual.resonanz_observer.line0": "Resonanz Observer",
+    "manual.resonanz_observer.line1": "A song we all dance to, ...",
+    "manual.resonanz_observer.line2": "§o...but few can hear§r{0}",
+    "manual.resonanz_observer.line3": "There is a curiosity about this world, not easily described. It appears as if any machine and living being simply stops moving when no one is close enough to perceive it.{0}",
+    "manual.resonanz_observer.line4": "But no engineer can afford to waste their time standing next to the machine to keep it running - so an artificial observer shall do so instead!{0}",
+    "manual.resonanz_observer.line5": "{0}",
+    "manual.resonanz_observer.line6": "The resonanz observer relies on the strange qualities of echo shards and the highly sensitive sculk sensor to keep an area of approximately §o{0} blocks§r around it active and working, even if no one is nearby.{1}",
+    "manual.resonanz_observer.line7": "To operate, the observer needs energy, input through the port on the §lright side§r of the structure.{0}",
+    "manual.resonanz_observer.line8": "To protocol its observations, it also requires a supply of §2paper§r, fed in through the port on the §lleft side§r.{0}",
+    "manual.resonanz_observer.line9": "Applying a redstone signal to the control panel at the front will disable the machine, this behavior can be inverted by use of the Engineer's Screwdriver.{0}",
+    "manual.resonanz_observer.line10": "Interacting with the machine will bring up its interface.{0}",
+    "manual.resonanz_observer.line11": "The readout on the left shows all the blocks which the observer is keeping active.",
+    "manual.resonanz_observer.line12": "Clicking an entry in the list will send out some vibration to indicate the blocks.{0}",
+    "manual.resonanz_observer.line13": "§2Paper§r can also be input here, with the remaining duration displayed next to the slot.",
+    "manual.resonanz_observer.line14": "A single piece of paper lasts for §o{0} seconds§r of recording."
+}

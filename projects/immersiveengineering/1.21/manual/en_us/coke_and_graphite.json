@@ -1,0 +1,11 @@
+{
+    "manual.coke_and_graphite.line0": "Coke and Graphite",
+    "manual.coke_and_graphite.line1": "Coal stuff",
+    "manual.coke_and_graphite.line2": "{0}Coal Coke is a purified form of carbon similar to charcoal. Coke is created from coal in the {1}Coke Oven{2}.{3}",
+    "manual.coke_and_graphite.line3": "It is used in steelmaking of all forms, from the {0}simplest{1} to the {2}most advanced{3}, and is a better furnace fuel than coal.",
+    "manual.coke_and_graphite.line4": "{0}Highly Ordered Pyrolytic (HOP) Graphite is a complex, allotrope of graphite used in special engineering constructs.{1}",
+    "manual.coke_and_graphite.line5": "HOP Graphite Dust is created by compressing eight pieces of Coke Dust in the {0}Industrial Squeezer{1}.",
+    "manual.coke_and_graphite.line6": "That dust can be then be formed into other shapes in the {0}Bottling Machine{1} as shown on the following page.",
+    "manual.coke_and_graphite.line7": "{0}While graphite plates are used in assembling {1}HV Accumulators{2}, the dust can also be shaped into electrodes, essential for operating the {3}Arc Furnace{4}.{5}",
+    "manual.coke_and_graphite.line8": "Both are made by placing the dust and a matching mold on the conveyor of the Bottling Machine, which packs the dust, saturates it with {0}Creosote Oil{1} and bakes it into shape."
+}

@@ -1,0 +1,9 @@
+{
+    "manual.engineers_toolbox.line0": "Engineer's Toolbox",
+    "manual.engineers_toolbox.line1": "The Engineer's Handbag",
+    "manual.engineers_toolbox.line2": "The toolbox is a simple, carried container, used to store all the essentials of an engineer! Hovering over the slots in the toolbox inventory tells you what they will accept.{0}",
+    "manual.engineers_toolbox.line3": "'Food' and 'Anything' are quite self-explanatory, 'Wiring' slots are for coils, connectors, transformers, or similar items.{0}",
+    "manual.engineers_toolbox.line4": "'Tools' will store any simple Vanilla tool or weapon, such as picks, swords, shovels, and bows. Cannot store fluid containers such as buckets or jerrycans as they would spill, but it can store other single-purpose tools such as the spyglass or compasses.{0}",
+    "manual.engineers_toolbox.line5": "Any IE tool or weapon can be stored inside the toolbox, including large electrical tools such as the {0}Railgun{1}. Armor such as the {2}Accumulator Backpack{3} is too large and cannot be stored.{4}",
+    "manual.engineers_toolbox.line6": "Sneaking and right-clicking allows the toolbox to be placed as a block. While placed, it's inventory can still be accessed with a rightclick. Sneaking and right-clicking again will pick the toolbox up directly to the user."
+}

@@ -1,0 +1,12 @@
+{
+    "manual.excavator.line0": "Excavator",
+    "manual.excavator.line1": "Better than Dwarves",
+    "manual.excavator.line2": "{0}The Excavator is one of the pinnacles of modern industry, able to dig up {1}minerals{2} from veins normally inaccessible.{3}",
+    "manual.excavator.line3": "Due to the intensive requirements of extracting sparse veins from the rock, the Excavator is a complex machine which requires {0} Flux/t in order to operate.{1}",
+    "manual.excavator.line4": "Mining commences from the bottom tip of the bucket wheel, and materials are output from the rear of the engine bracket.{0}",
+    "manual.excavator.line5": "The three plugs for the engine take in power from the side, and the back features a redstone control panel.{0}",
+    "manual.excavator.line6": "As the excavator digs up ores, the yield of the vein slowly decreases, but a mineral deposit can provide at maximum {0} blocks of ore.{1}",
+    "manual.excavator.line7": "The structure is comprised of two pieces: The engine shown on the following page and the bucket wheel displayed on the next, which fits into the 'braces' of the engine. The full structure can be assembled by using the Engineer's Hammer on the rear central Heavy Engineering Block.{0}",
+    "manual.excavator.line8": "{0}The wheel can be formed on its own via using the Engineer's Hammer on the central steel block.",
+    "manual.excavator.line9": "{0}The engine can be formed on its own via the rear center port's Heavy Engineering Block, and will form the bucket wheel with it provided it is placed properly."
+}
