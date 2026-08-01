@@ -1,6 +1,6 @@
 # Minecraft Mod Translation
 
-本仓库提供了简易的翻译文件到Paratranz的集成和自动同步，以便于利用Paratranz的资源，实现模组翻译或审阅的便利化。
+本仓库提供了简易的翻译文件到ParaTranz的集成和自动同步，以便于利用ParaTranz的资源，实现模组翻译或审阅的便利化。
 
 ## 项目目标
 
