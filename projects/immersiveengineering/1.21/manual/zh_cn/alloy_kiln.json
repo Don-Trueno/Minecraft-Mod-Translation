@@ -1,8 +1,8 @@
 {
-    "manual.alloy_kiln.line0": "",
-    "manual.alloy_kiln.line1": "",
-    "manual.alloy_kiln.line2": "",
-    "manual.alloy_kiln.line3": "",
-    "manual.alloy_kiln.line4": "",
-    "manual.alloy_kiln.line5": ""
+    "manual.alloy_kiln.line0": "合金窑",
+    "manual.alloy_kiln.line1": "把金属混合起来",
+    "manual.alloy_kiln.line2": "{0}合金窑是一种简单的炉子，用隔热的砂岩与砖块制作。它的内部可以加热到足以熔化金属的高温，使得它们融合形成{1}合金{2}。",
+    "manual.alloy_kiln.line3": "有了这一设备后，重要合金材料的制作就简单多了。例如在制作琥珀金和康铜等材料时，不再需要枯燥乏味地混合对应的金属粉末。{0}",
+    "manual.alloy_kiln.line4": "{0}在合金窑结构成型前，你需要按上方插图所示将8个窑砖摆放成2x2x2的立方体，然后手持工程师锤右击方块的任一侧面。{1}",
+    "manual.alloy_kiln.line5": "{0}合金窑也是制作§2绝缘玻璃§r的重要设备，绝缘玻璃主要用于继续合成{1}高压结构{2}。"
 }
