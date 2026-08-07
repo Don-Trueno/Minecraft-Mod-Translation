@@ -1,11 +1,11 @@
 {
-    "manual.assembler.line0": "",
-    "manual.assembler.line1": "",
-    "manual.assembler.line2": "",
-    "manual.assembler.line3": "",
-    "manual.assembler.line4": "",
-    "manual.assembler.line5": "",
-    "manual.assembler.line6": "",
-    "manual.assembler.line7": "",
-    "manual.assembler.line8": ""
+    "manual.assembler.line0": "装配机",
+    "manual.assembler.line1": "拼装人生指南",
+    "manual.assembler.line2": "{0}装配机是一种复杂的机械，可以像玩家那样合成物品。{1}",
+    "manual.assembler.line3": "要搭建此结构，只需按如上所示摆放方块，然后对朝内摆放的传送带使用工程师锤。{0}",
+    "manual.assembler.line4": "装配机可以储存最多3个合成配方，按配方顺序依次执行。先前配方的输出可以作为后续配方的输入。{0}",
+    "manual.assembler.line5": "上方3个合成窗格用于储存合成配方，下方18个物品槽位用于储存合成材料。{0}",
+    "manual.assembler.line6": "机器的输入面除物品输入外，还设有流体输入口，用于填充机器内部的三个储罐。{0}",
+    "manual.assembler.line7": "这些储罐里的流体能代替配方中使用的流体容器，例如水桶等。可在合成窗格中使用对应的流体桶指定流体的类型。{0}",
+    "manual.assembler.line8": "能量可通过机器顶部中心方块上的插头输入，红石信号控制由机器两侧的接口完成。"
 }
