@@ -3,7 +3,7 @@
     "manual.automated_engineers_workbench.line1": "不会开手动挡的人的福音",
     "manual.automated_engineers_workbench.line2": "{0}自动化工程师装配台是你小规模机械领域中取得的首批重大成果之一。{1}",
     "manual.automated_engineers_workbench.line3": "该机器能够按照{0}蓝图{1}所描述的一系列指令，组装其中列出的物品。{2}",
-    "manual.automated_engineers_workbench.line4": "",
-    "manual.automated_engineers_workbench.line5": "",
-    "manual.automated_engineers_workbench.line6": ""
+    "manual.automated_engineers_workbench.line4": "在多方块结构成型后，你可以在绘图台上放置蓝图。选定要合成的物品后，机器就会开始组装工作。机器运行期间需要提供材料与能量。{0}",
+    "manual.automated_engineers_workbench.line5": "物品可由标有蓝点的输入口输入，能量输入在它们的更上方。产物会通过传送带丢出。{0}",
+    "manual.automated_engineers_workbench.line6": "对绘图台下方的控制面板输入红石信号可停止机器的当前进程，此行为可通过工程师螺丝刀反转。"
 }
